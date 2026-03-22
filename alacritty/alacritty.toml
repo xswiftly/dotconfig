@@ -1,0 +1,23 @@
+# All config files need to be stored inside ~/.config/alacritty
+
+[general]
+import = [
+    "~/.config/alacritty/keybinds.toml",
+    "~/.config/alacritty/ayu.toml",
+    #"~/.config/alacritty/gruvbox.toml"
+]
+
+[window]
+# decorations = "None"
+startup_mode = "Maximized"
+opacity = 0.85
+padding = { x = 1, y = 1 }
+dynamic_padding = true
+
+[font]
+size = 22
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+blink_interval = 550
+blink_timeout = 0

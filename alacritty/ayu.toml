@@ -1,0 +1,31 @@
+# Source: https://github.com/ayu-theme/ayu-colors/blob/master/palette.svg
+
+### Ayu dark ###
+
+[colors]
+# Default colors
+[colors.primary]
+background = "#10141C"
+foreground = "#BFBDB6"
+
+# Normal colors
+[colors.normal]
+black   = "#0A0000"
+red     = "#E6495A"
+green   = "#97C142"
+yellow  = "#E89D37"
+blue    = "#17ACF2"
+magenta = "#C385FE"
+cyan    = "#84CEB5"
+white   = "#FFFFFF"
+
+# Bright colors
+[colors.bright]
+black   = "#0A0000"
+red     = "#F07178"
+green   = "#AAD94C"
+yellow  = "#FFB454"
+blue    = "#59C2FF"
+magenta = "#D2A6FF"
+cyan    = "#95E6CB"
+white   = "#FFFFFF"
